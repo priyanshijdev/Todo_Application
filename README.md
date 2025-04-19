@@ -1,5 +1,6 @@
 # Todo_Application
-CRUD 
+Deployed on Vercel -
+https://todo-application-beta-woad.vercel.app/
 
 ### CRUD Functionality
 
